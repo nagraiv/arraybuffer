@@ -68,6 +68,13 @@ describe('Тестируем атаку на расстоянии', () => {
         character.distance = 2;
         expect(character.attack).toBe(32);
     });
+
+    it('при большом расстоянии атака не должна стать отрицительной', () => {
+        const character = new MagicCharacter('Люцифер', 'Daemon');
+        character.attack = 40;
+        character.distance = 20;
+        expect(character.attack).toBe(0);
+    });
 });
 
 describe('Тестируем атаку под дурманом', () => {
