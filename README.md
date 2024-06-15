@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/l6j71w7fm6hlx8kv/branch/main?svg=true)](https://ci.appveyor.com/project/nagraiv/arraybuffer/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/l6j71w7fm6hlx8kv/branch/master?svg=true)](https://ci.appveyor.com/project/nagraiv/arraybuffer/branch/master)
 
 # Домашнее задание к лекции «`ArrayBuffer`» [ссылка](https://github.com/netology-code/ajs-homeworks/tree/ajs8/arraybuffer)
 
